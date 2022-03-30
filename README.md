@@ -55,5 +55,10 @@ sudo apt install ros-noetic-tf2-sensor-msgs
 # 論文
 
 - RANSAM for Industrial Bin-Picking (2010)
+1:イントロ 本論文のアプローチでは,3次元データピッキング位置を認識。ノイズやオクルージョンに対してロバストで実環境で有用。
+6:結論 RANSAMアルゴリズムがばら積みピッキング作業で非常に有効であることが,検証された。また3Dモデルを変えるだけで,色々なワークに対応可能。ノイズにもロバスト。  
+URL: https://www.researchgate.net/profile/Simon-Winkelbach/publication/224232571_RANSAM_for_industrial_bin-picking/links/5e57c8654585152ce8f30c9e/RANSAM-for-industrial-bin-picking.pdf
 
-RANSAMアルゴリズムがばら積みピッキング作業で非常に有効であることが,検証された。
+
+
+
